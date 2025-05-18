@@ -1,1 +1,1 @@
-This directory contains files related to the Git project
+git pull origin main
